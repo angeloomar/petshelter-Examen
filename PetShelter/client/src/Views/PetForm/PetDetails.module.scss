@@ -1,0 +1,19 @@
+.form-container {
+    padding: 2%;
+
+    cabecera {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        margin: 0 auto;
+
+        button {
+            margin-top: 5%;
+        }
+    }
+}
